@@ -1,7 +1,7 @@
 # NoNetworkViewController
 View controller that takes over screen when there is no internet connection. Critical for networked apps.
 
-![Example](https://imgflip.com/gif/ggnw3.gif)
+![Example](https://raw.github.com/williamFalcon/NoNetworkViewController/blob/master/ggnw3.gif)
 
 ## How to Use
 1. Import header file
