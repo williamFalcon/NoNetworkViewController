@@ -1,7 +1,9 @@
 # NoNetworkViewController
 View controller that takes over screen when there is no internet connection. Critical for networked apps.
 
-# Getting started
+![Example](https://imgflip.com/gif/ggnw3)
+
+## How to Use
 1. Import header file
 ````
 #import "NoNetworkManager.h"
@@ -19,5 +21,5 @@ View controller that takes over screen when there is no internet connection. Cri
 }
 ````
 
-# Dependencies
+## Dependencies
 * [Reachability](https://developer.apple.com/library/ios/samplecode/Reachability/Introduction/Intro.html)
