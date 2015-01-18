@@ -3,6 +3,11 @@ View controller that takes over screen when there is no internet connection. Cri
 
 ![Example](https://raw.github.com/williamFalcon/NoNetworkViewController/master/ggnw3.gif)
 
+##CocoaPods
+```
+pod 'NoNetworkViewController'
+```
+
 ## How to Use
 1. Import header file
 ```obj-c
