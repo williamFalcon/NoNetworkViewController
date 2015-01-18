@@ -9,7 +9,7 @@ pod 'NoNetworkViewController'
 ```
 
 ## How to Use
-1. Import header file
+1. Import header file (if not using cocoapods or using swift)
 ```obj-c
 #import "NoNetworkManager.h"
 ```
