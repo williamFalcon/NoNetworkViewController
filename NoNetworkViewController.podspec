@@ -7,9 +7,9 @@ Pod::Spec.new do |s|
   s.author = { 'williamFalcon' => 'will@hacstudios.com' }
   s.social_media_url = 'https://twitter.com/_willfalcon'
   s.source = { :git => 'https://github.com/williamFalcon/NoNetworkViewController.git', :tag => "v#{s.version}" }
-  s.source_files = 'WFHttp/**/*.{h,m}'
+  s.source_files = 'NoNetworkViewController/**/*.{h,m}'
   s.public_header_files = 'WFHttp/Public/**/*.{h,m}'
   s.requires_arc = true
   s.platform = :ios, '7.0'
-  s.dependency = 'Reachability'
+  s.dependency 'Reachability'
 end
