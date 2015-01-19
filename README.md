@@ -25,6 +25,7 @@ pod 'NoNetworkViewController'
     return YES;
 }
 ```
-
+## Designing for your project
+1. Feel free to apply your own design by modifying the [NoNetworkViewController.xib file](https://github.com/williamFalcon/NoNetworkViewController/blob/master/NoNetworkViewController/NoNetworkViewController.xib)   
 ## Dependencies
 * [Reachability](https://developer.apple.com/library/ios/samplecode/Reachability/Introduction/Intro.html)
